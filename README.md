@@ -1,3 +1,4 @@
+<img width="890" height="300" alt="dino" src="https://github.com/user-attachments/assets/27b79cc8-5388-4149-8fbd-acb7f6e09058" />
 # Proiect-Web-Demo 
 # Laborator 5
 ## Git_Project
